@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class AddContact {
+        
         Scanner scan = new Scanner(System.in);
         ArrayList<CreateContact> person; //ArrayList for ContactUc1
 
