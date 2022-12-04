@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class EditExistingContact {
+        
         Scanner scan = new Scanner(System.in);
         ArrayList<CreateContact> person;
         public EditExistingContact() {
