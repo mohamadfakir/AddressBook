@@ -1,6 +1,7 @@
 package com.addressbookproblems;
 
     public class CreateContact {
+        
         private String firstName;
         private String lastName;
         private String address;
