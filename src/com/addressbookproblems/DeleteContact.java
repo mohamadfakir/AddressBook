@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class DeleteContact {
+        
         Scanner scan = new Scanner(System.in);
         ArrayList<CreateContact> person;
 
